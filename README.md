@@ -6,5 +6,5 @@ Android application capable of scanning QR codes related to my town's monuments.
 - AndroidX RecyclerView with CardView for monuments in user history;
 - Google Mobile Vision libraries for scanning QR codes.
 
-![Login Activity](/mockups/login.jpg) ![Nav Side](/mockups/navSide.jpg)
+![Login](/mockups/login.jpg) ![Nav Side](/mockups/navSide.jpg) ![QR scan](/mockups/qrScan.jpg) ![Monum desc](/mockups/monumDesc.jpg) ![History](/mockups/history.jpg)
 
