@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "xxx",
+    "firebase_url": "xxx",
+    "project_id": "xxx",
+    "storage_bucket": "xxx"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "xxx",
+        "android_client_info": {
+          "package_name": "com.carpineti.qrcori"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "xxx",
+          "client_type": "x",
+          "android_info": {
+            "package_name": "com.carpineti.qrcori",
+            "certificate_hash": "xxx"
+          }
+        },
+        {
+          "client_id": "xxx",
+          "client_type": "x"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "xxx"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "xxx",
+              "client_type": "x"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "x"
+}

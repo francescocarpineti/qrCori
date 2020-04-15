@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">qrCori</string>
+    <string name="facebook_app_id">xxx</string>
+    <string name="fb_login_protocol_scheme">xxx</string>
+
+    <string name="ercole_text">
+        "Il tempio di Ercole venne eretto durante la dittatura di Silla, tra l\'89 a.C. e l\'80 a.C."
+        "sulla sommità del colle su cui era sorta la città di Cora, a 398 metri di altitudine, per"
+        "volere di due magistrati locali, il cui nome è inciso sull\'architrave della porta. Il"
+        "tempio deve il suo stato di conservazione alla trasformazione in chiesa: all\'interno della"
+        "cella si insediò infatti la chiesa di San Pietro, distrutta dai bombardamenti alleati nel"
+        "1944.\n\n"
+
+        "L\'edificio è tetrastilo, ossia con quattro colonne sul fronte principale. Altre quattro"
+        "colonne per lato delimitavano il pronao, oltre il quale si apriva la cella. Le otto colonne"
+        "del tempio, di ordine dorico si sono conservate, così come la trabeazione ed il frontone."
+        "Il tempio richiama fortemente la tradizione templare italica, derivante dagli esempi"
+        "etruschi e repubblicani.\n\n"
+
+        "Il tempio domina la città dall\'alto, tant'è che è visibile anche da lontano.\n\n"
+
+        "Source: Wikipedia\n\n\n"
+
+    </string>
+
+    <string name="castore_text">
+        "Il tempio dei Dioscuri (o di Castore e Polluce) era situato nei pressi del foro. Costruito"
+        "tra il IV secolo a.C. e il II secolo a.C. l\'edificio venne restaurato, come testimoniato da"
+        "un\'iscrizione sull\'architrave, verso il I secolo a.C. da due magistrati, che utilizzarono"
+        "parte del tesoro del tempio ricostruendo l\'edificio in stile corinzio. Il tempio, oltre a"
+        "luogo di culto, aveva dunque anche la funzione di tesoriera della città, così come il"
+        "Partenone e il Capitolium di Ostia.\n\n"
+
+        "L\'edificio venne inglobato e sulle sue rovine sorsero diversi edifici privati e una chiesa,"
+        "che venne dedicata a San Salvatore. Alcuni resti sono conservati nel chiostro della vicina"
+        "chiesa di Sant\'Oliva. Ciò che resta della struttura sono due colonne in stile corinzio che"
+        "sorreggono un tratto di architrave attraverso cui è stato possibile risalire ai committenti"
+        "dell'opera e alle divinità a cui il tempio era dedicato e parte del podio. Altri resti sono"
+        "inglobati in un edificio moderno adiacente ai resti visibili. Le colonne sono alte 10 metri"
+        "e rivestite di stucco in modo da sembrare di marmo, hanno un diametro di 90 centimetri e"
+        "distano tre metri l\'una dall'altra. Originariamente il tempio era esastilo, ossia con sei"
+        "colonne sul fronte principale.\n\n"
+
+        "Dalle indagini archeologiche è risultato che la cella del tempio era tripartita, ossia"
+        "divisa in tre ambienti distinti.\n\n"
+
+        "Source: Wikipedia\n\n\n"
+    </string>
+
+
+    <string name="soliva_text">
+        "Il complesso monumentale di S. Oliva comprende una Chiesa, edificata sui resti di un tempio"
+        "romano, la cappella del Crocifisso, il bellissimo Chiostro e il Convento di epoca"
+        "rinascimentale che è oggi la  sede del Museo della città e del territorio. La chiesa, di"
+        "forma basilicale con cinque navate di stile romanico, fu edificata nella prima metà del XII"
+        "secolo sui resti di un tempio romano tradizionalmente, ma erroneamente, identificato come"
+        "tempio di Giano.\n\n"
+
+        "Il santuario dedicato ad una divinità ignota, edificato in due fasi tra il III ed i primi
+        "decenni del I secolo a.C., è inglobato dunque nella Chiesa di Sant\'Oliva e alcuni elementi
+        "architettonici e parte delle strutture murarie di pertinenza templare sono visibili
+        "all\'interno, sia lungo il muro confinante con la cappella del Crocifisso, sia lungo il muro
+        "divisorio dell\'ambiente retrostante il campanile, inoltre, all\'interno della chiesa è
+        "stato riutilizzato un gran numero di elementi architettonici romani di spoglio come basi,
+        "colonne e capitelli. Il tempio, nelle sue due fasi costruttive, sembrerebbe aver mantenuto
+        "la stessa tipologia: tempio prostilo, ad unica cella con gradinata frontale che nella
+        "seconda fase venne ampliato nel podio, e la sua lunghezza di 17 m. lo farebbe assimilare al
+        "tempio di Diana edificato sull’acropoli di Norba-Norma.\n\n
+
+        "Scavi antichi e recenti hanno poi permesso di recuperare del materiale che potrebbe essere"
+        "attinente al culto: una stipe votiva fittile, una mano destra in calcare travertinoso,"
+        "attribuibile ad una grande statua, in base alla dimensione della mano, e una statua marmorea"
+        "femminile di età giulio-claudia, nelle fattezze della dea greca Kore, conservata nel Museo"
+        "Nazionale Romano, ma il cui calco è conservato nel museo della città.\n\n"
+
+        "Interessante è poi la presenza della grotta carsica, visibile all\'interno del Museo della"
+        "città e del territorio, al piano terra, il cui accesso utilizza, a quel livello, la stalla"
+        "e la cantina dell\'ex convento e che farebbe ipotizzare, come per molti templi, il nesso tra"
+        "cavità sotterranee e connotazioni oracolari.\n\n"
+
+        "Source: italiavirtualtour.it\n\n\n"
+    </string>
+
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="nav_header_title">"Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@gmail.com</string>
+    <string name="nav_header_desc">Nav Desc</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_scan">Scan QR Code</string>
+    <string name="menu_history">History</string>
+    <string name="menu_profile">Profile</string>
+
+    <string name="main_second">Qr Second</string>
+
+
+</resources>

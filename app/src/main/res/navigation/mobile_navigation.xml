@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_main">
+
+    <fragment
+        android:id="@+id/nav_main"
+        android:name="com.carpineti.qrcori.ui.main.MainFragment"
+        android:label="qrCori"
+        tools:layout="@layout/fragment_main">
+
+        <action
+            android:id="@+id/action_MainFragmentToQrFragment"
+            app:destination="@id/nav_main_qr" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_main_qr"
+        android:name="com.carpineti.qrcori.ui.qrscan.QrFragment"
+        android:label="qrCori"
+        tools:layout="@layout/fragment_qr">
+        <action
+            android:id="@+id/action_QrFragmentToMainFragment"
+            app:destination="@id/nav_main" />
+
+        <argument
+            android:name="myArg"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_nav_main_qr_to_monumentFragment"
+            app:destination="@id/nav_monument" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_history"
+        android:name="com.carpineti.qrcori.ui.history.HistoryFragment"
+        android:label="@string/menu_history"
+        tools:layout="@layout/fragment_history" >
+        <action
+            android:id="@+id/action_nav_history_to_nav_monument"
+            app:destination="@id/nav_monument" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.carpineti.qrcori.ui.profile.ProfileFragment"
+        android:label="@string/menu_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/nav_monument"
+        android:name="com.carpineti.qrcori.ui.monument.MonumentFragment"
+        android:label="fragment_monument"
+        tools:layout="@layout/fragment_monument" >
+        <action
+            android:id="@+id/action_monumentFragment_to_nav_main_qr"
+            app:destination="@id/nav_main_qr" />
+        <action
+            android:id="@+id/action_nav_monument_to_nav_history"
+            app:destination="@id/nav_history" />
+    </fragment>
+</navigation>
